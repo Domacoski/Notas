@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notas</string>
+
+    <string name="title">Título</string>
+    <string name="description">Descrição</string>
+    <string name="add">Adicionar</string>
+
+    <string name="title_activity_main">Todas as notas</string>
+    <string name="swicth_title_sqlite">Sqlite3</string>
+    <string name="swicth_title_preferences">Shared Preferences</string>
+</resources>
